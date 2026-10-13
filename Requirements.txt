@@ -1,0 +1,3 @@
+To realize: lista todas las librerías de Python utilizadas y sus versiones exactas 
+(por ejemplo, pandas, numpy, matplotlib, seaborn, scikit-learn), 
+permitiendo reinstalar el entorno con un simple comando.
