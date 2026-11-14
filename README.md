@@ -45,7 +45,7 @@ pip install -r requirements.txt
 jupyter notebook
 
 Abre el archivo ubicado en notebooks/01_limpieza_preprocesamiento.ipynb y ejecuta las celdas en orden.
-
+A
 ## Pipeline de Datos
 El flujo de trabajo implementado en este proyecto consta de las siguientes etapas, desarrolladas en el notebook `01_limpieza_preprocesamiento.ipynb`:
 
