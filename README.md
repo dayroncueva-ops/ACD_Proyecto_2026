@@ -51,7 +51,7 @@ Ejecuta los notebooks en orden para reproducir el pipeline completo.
 ## Pipeline de Datos
 El flujo de trabajo implementado se divide en dos etapas principales:
 
-**Etapa 1: Limpieza y Preprocesamiento (`01_limpieza_preprocesamiento_corregido (2).ipynb`)**
+**Etapa 1: Limpieza y Preprocesamiento (`01_limpieza_preprocesamiento.ipynb`)**
 1. **Ingesta:** Carga del dataset original y eliminación de duplicados exactos.
 2. **Conversión de tipos:** Estandarización de nombres y conversión de variables monetarias (strings a float).
 3. **Tratamiento de nulos:** Imputación de `precio_original` bajo regla de negocio (si está vacío, se iguala al `precio` actual). Resultado: 0% de nulos.
